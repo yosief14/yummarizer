@@ -1,6 +1,0 @@
-setup.py
-yummarize.egg-info/PKG-INFO
-yummarize.egg-info/SOURCES.txt
-yummarize.egg-info/dependency_links.txt
-yummarize.egg-info/entry_points.txt
-yummarize.egg-info/top_level.txt
