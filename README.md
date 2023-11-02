@@ -10,6 +10,10 @@ while I was cooking(which blows) and occasionally leads to catastrophy.
   <img width="500"  src="https://media.tenor.com/XpQuXaxXE7AAAAAd/kitchen-burn.gif  alt="demo"/>
 </p>
 
-I made yummarizer to streamline that whole experience so that I could just 
+I made yummarizer to streamline that whole experience so that I could just watch a video press a button and download a pdf.
+For now it is a cli tool that downloads a pdf of the summurization, but I plan to turn it into a webserver and create a chrome plugin so 
+anyone can use it. 
+
+
 
 
