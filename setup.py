@@ -6,5 +6,19 @@ setup(
         'console_scripts': [
             'yummarize=yummarize:main'
         ]
-    }
+    },
+    install_requires=[
+        'json',
+        'base64',
+        'requests',
+        'python-dotenv',
+        'os',
+        'openai',
+        'sys',
+        'urllib',
+        'tiktoken',
+        'argparse',
+        'fpdf'
+
+    ]
 )
