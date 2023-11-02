@@ -8,4 +8,7 @@ either hope that theire was a link to the written instructions in the video desc
 while I was cooking(which blows). Creating a shopping list for the recipe was also massively inconvenient. 
 
 I made yummarizer to streamline that whole experience so that I could ultimately 
-![](https://media.tenor.com/XpQuXaxXE7AAAAAd/kitchen-burn.gif)
+<p align="center">
+  <img width="700"  src="https://media.tenor.com/XpQuXaxXE7AAAAAd/kitchen-burn.gif  alt="demo"/>
+</p>
+
